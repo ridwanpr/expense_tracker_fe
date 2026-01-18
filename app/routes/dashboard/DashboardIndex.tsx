@@ -36,28 +36,40 @@ export default function DashboardIndex({ loaderData }: DashboardIndexProps) {
         <hr className="border-gray-300" />
         <nav>
           <ul className="flex flex-col">
-            <li className="w-full bg-gray-200 font-semibold p-2 rounded">
-              <a href="" className="flex items-center gap-2">
+            <li className="w-full bg-gray-200 p-3 rounded">
+              <a href="" className="flex items-center gap-2 text-lg">
                 <HiHome className="text-gray-400" /> Dashboard
               </a>
             </li>
-            <li className="w-full font-semibold p-2 rounded">
-              <a href="" className="flex items-center gap-2 font-normal">
+            <li className="w-full font-semibold p-3 rounded">
+              <a
+                href=""
+                className="flex items-center gap-2 font-normal text-lg"
+              >
                 <HiCreditCard className="text-gray-400" /> Expense
               </a>
             </li>
-            <li className="w-full font-semibold p-2 rounded">
-              <a href="" className="flex items-center gap-2 font-normal">
+            <li className="w-full font-semibold p-3 rounded">
+              <a
+                href=""
+                className="flex items-center gap-2 font-normal text-lg"
+              >
                 <HiTag className="text-gray-400" /> Category
               </a>
             </li>
-            <li className="w-full font-semibold p-2 rounded">
-              <a href="" className="flex items-center gap-2 font-normal">
+            <li className="w-full font-semibold p-3 rounded">
+              <a
+                href=""
+                className="flex items-center gap-2 font-normal text-lg"
+              >
                 <HiCurrencyDollar className="text-gray-400" /> Budget
               </a>
             </li>
-            <li className="w-full font-semibold p-2 rounded">
-              <a href="" className="flex items-center gap-2 font-normal">
+            <li className="w-full font-semibold p-3 rounded">
+              <a
+                href=""
+                className="flex items-center gap-2 font-normal text-lg"
+              >
                 <HiChartBar className="text-gray-400" /> Report
               </a>
             </li>
@@ -78,28 +90,40 @@ export default function DashboardIndex({ loaderData }: DashboardIndexProps) {
         <hr className="border-gray-300" />
         <nav>
           <ul className="flex flex-col">
-            <li className="w-full bg-gray-200 p-2 rounded">
-              <a href="" className="flex items-center gap-2">
+            <li className="w-full bg-gray-200 p-3 rounded">
+              <a href="" className="flex items-center gap-2 text-lg">
                 <HiHome className="text-gray-400" /> Dashboard
               </a>
             </li>
-            <li className="w-full font-semibold p-2 rounded">
-              <a href="" className="flex items-center gap-2 font-normal">
+            <li className="w-full font-semibold p-3 rounded">
+              <a
+                href=""
+                className="flex items-center gap-2 font-normal text-lg"
+              >
                 <HiCreditCard className="text-gray-400" /> Expense
               </a>
             </li>
-            <li className="w-full font-semibold p-2 rounded">
-              <a href="" className="flex items-center gap-2 font-normal">
+            <li className="w-full font-semibold p-3 rounded">
+              <a
+                href=""
+                className="flex items-center gap-2 font-normal text-lg"
+              >
                 <HiTag className="text-gray-400" /> Category
               </a>
             </li>
-            <li className="w-full font-semibold p-2 rounded">
-              <a href="" className="flex items-center gap-2 font-normal">
+            <li className="w-full font-semibold p-3 rounded">
+              <a
+                href=""
+                className="flex items-center gap-2 font-normal text-lg"
+              >
                 <HiCurrencyDollar className="text-gray-400" /> Budget
               </a>
             </li>
-            <li className="w-full font-semibold p-2 rounded">
-              <a href="" className="flex items-center gap-2 font-normal">
+            <li className="w-full font-semibold p-3 rounded">
+              <a
+                href=""
+                className="flex items-center gap-2 font-normal text-lg"
+              >
                 <HiChartBar className="text-gray-400" /> Report
               </a>
             </li>
